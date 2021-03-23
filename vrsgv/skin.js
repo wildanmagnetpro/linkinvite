@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 6.0.3/17298
 // Filename: pesan_sekarang.ggsk
-// Generated 2021-03-23T11:33:19
+// Generated 2021-03-23T11:58:36
 
 function pano2vrSkin(player,base) {
 	var me=this;
