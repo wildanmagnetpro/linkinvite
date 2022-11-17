@@ -1,1 +1,0 @@
-git commit -m "$(openssl dgst -sha256 index.html)"
